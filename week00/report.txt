@@ -1,0 +1,2 @@
+the task in week00 is to make accounts on Google and GitHub, then log in
+to badak.cs.ui.ac.id server

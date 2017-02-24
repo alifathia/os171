@@ -1,6 +1,0 @@
-total 16
-drwxr-xr-x 2 alifa.fathia StafCS 4096 Feb 24 20:11 .
-drwxr-xr-x 3 alifa.fathia StafCS 4096 Feb 24 20:00 ..
--rw-r--r-- 1 alifa.fathia StafCS 1621 Feb 24 20:07 00-toc.txt
--rw-r--r-- 1 alifa.fathia StafCS 3158 Feb 24 20:07 01-public-osteam.txt
--rw-r--r-- 1 alifa.fathia StafCS    0 Feb 24 20:11 02-ls-al.txt

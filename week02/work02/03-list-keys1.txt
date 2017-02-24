@@ -1,6 +1,0 @@
-/home/fasilkom/mahasiswa/a/alifa.fathia/.gnupg/pubring.gpg
-----------------------------------------------------------
-pub   4096R/5412DE00 2017-02-24 [expires: 2017-08-23]
-uid                  Alifa Fathia (wish me luck) <alifa.fathia@ui.ac.id>
-sub   4096R/DAD928B0 2017-02-24 [expires: 2017-08-23]
-
